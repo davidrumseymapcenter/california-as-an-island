@@ -1,38 +1,3 @@
-# Thinking Spatially Toolkit
-
-This repo is meant be a landing page for learning about starting your work using spatial information at Stanford Libraries.
-
-Inspired by: https://dh.sites.gettysburg.edu/toolkit/
-
-Uses the [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
-
-## Prerequisites
-- Ruby
-- Git
-- Git Bash (if on Windows)
-- Code editor such as VScode 
-
-## Initial Setup for a new user
-```
-cd /path/to/desired/folder
-git clone https://github.com/J-ok-git/thinking-spatially-toolkit.git
-cd thinking-spatially-toolkit
-
-# Install gems from Gemfile including Jekyll
-bundle install
-```
-
-## How to serve the website locally?
-1. Run `bundle exec jekyll serve --watch --incremental` in Git bash in the repository root
-2. Open http://127.0.0.1:4000 in your browser
-
-Since we are running this with the `--watch` flag, it will automatically update the ;local website in your browser when you make a change.
-
-The `--incremental` flag enables incremental compilation which makes it faster to update the website when you make a change as it only recompiles the files that changed.
-
-
-What I wrote for the table with thumbnails and not with links:
-
 <table style="border: none">
   <tr>
     <th style="border: none"><img src="/esplandian.png" alt="Las Sergas de Esplandián by Garci Rodriguez de Montalvo - Wikipedia Commons" style="width:200px;"></th>
@@ -45,7 +10,6 @@ What I wrote for the table with thumbnails and not with links:
     <td style="border: none">1622 Antonio de Herrera y Tordesillas, DESCRIPTIO INDIÆ OCCIDENTALIS</td>
   </tr>
 </table>
-
 
 <table style="border: none">
   <tr>
