@@ -63,113 +63,19 @@ The materials needed for this class include:
 3. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Discussion%20Topics%20for%20California%20as%20an%20Island.pdf">Copies of the topic cards (Step 5)</a>
 4. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Materials%20for%20California%20as%20an%20Island%20Map%20Collection.pdf">Printed copies of the California as an Island collection (Step 5)</a>
 
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://commons.wikimedia.org/wiki/File:Esplandian.jpg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esplandian.jpg/256px-Esplandian.jpg?20200107202255" alt="Las Sergas de Esplandián by Garci Rodriguez de Montalvo - Wikipedia Commons" style="width:200px;">
+<div class="gallery">
+  {% for item in site.data.bib %}
+    <div class="gallery-item">
+      <a href="{{ item.link }}" target="_blank">
+        <div class="image-wrapper">
+          <img src="{{ item.thumbnail }}" alt="{{ item.title }}">
+        </div>
       </a>
-    </th>
-    <th style="border: none">
-    <a href="https://stacks.stanford.edu/image/iiif/pr887yg5353%2F11622048/267,149,8286,6134/full/0/default.jpg">
-      <img src="https://stacks.stanford.edu/image/iiif/pr887yg5353%2F11622048/267,149,8286,6134/full/0/default.jpg" alt="1597 Cornelis Wytfliet, Granata Nova et California" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1510 Las Sergas de Esplandián by Garci Rodriguez de Montalvo - Wikipedia Commons</td>
-    <td style="border: none">1597 Cornelis Wytfliet, Granata Nova et California</td>
-  </tr>
-</table>
-
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://stacks.stanford.edu/image/iiif/hf530hv9225%2Fhf530hv9225_05_0001/1,124,2949,4583/full/0/default.jpg">
-        <img src="https://stacks.stanford.edu/image/iiif/hf530hv9225%2Fhf530hv9225_05_0001/1,124,2949,4583/full/0/default.jpg" alt="1622 Antonio de Herrera y Tordesillas, DESCRIPTIO INDIÆ OCCIDENTALIS" style="width:200px;">
-      </a>
-    </th>
-    <th style="border: none">
-    <a href="https://stacks.stanford.edu/image/iiif/sy409bk9698%2Fsy409bk9698_05_0001/1627,1632,8955,7692/full/0/default.jpg">
-      <img src="https://stacks.stanford.edu/image/iiif/sy409bk9698%2Fsy409bk9698_05_0001/1627,1632,8955,7692/full/0/default.jpg" alt="1625 Briggs The North part of America" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1622 Antonio de Herrera y Tordesillas, DESCRIPTIO INDIÆ OCCIDENTALIS</td>
-    <td style="border: none">1625 Briggs The North part of America</td>
-  </tr>
-</table>
-
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://stacks.stanford.edu/image/iiif/vw323gf4937%2Fvw323gf4937_05_0001/121,102,12633,10022/full/0/default.jpg">
-        <img src="https://stacks.stanford.edu/image/iiif/vw323gf4937%2Fvw323gf4937_05_0001/121,102,12633,10022/full/0/default.jpg" alt="1626 John Speed, America with those known parts" style="width:200px;">
-      </a>
-    </th>
-    <th style="border: none">
-    <a href="https://stacks.stanford.edu/image/iiif/qz404xp7062%2Fqz404xp7062_05_0001/109,52,14128,10356/full/0/default.jpg">
-      <img src="https://stacks.stanford.edu/image/iiif/qz404xp7062%2Fqz404xp7062_05_0001/109,52,14128,10356/full/0/default.jpg" alt="1669 G. Sanson, Amerique Septentrionale" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1626 John Speed, America with those known parts</td>
-    <td style="border: none">1669 G. Sanson, Amerique Septentrionale</td>
-  </tr>
-</table>
-
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://stacks.stanford.edu/image/iiif/kc128tv5108%2Fkc128tv5108_05_0001/50,80,6273,3983/full/0/default.jpg">
-        <img src="https://stacks.stanford.edu/image/iiif/kc128tv5108%2Fkc128tv5108_05_0001/50,80,6273,3983/full/0/default.jpg" alt="1656 G. Sanson inset view of Sanson map" style="width:200px;">
-      </a>
-    </th>
-    <th style="border: none">
-    <a href="https://stacks.stanford.edu/image/iiif/cb718nd1707%2Fcb718nd1707_05_0001/413,543,19820,14833/full/0/default.jpg">
-      <img src="https://stacks.stanford.edu/image/iiif/cb718nd1707%2Fcb718nd1707_05_0001/413,543,19820,14833/full/0/default.jpg" alt="1720 De Fer, La Californie ou Nouvelle Caroline" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1656 G. Sanson inset view of Sanson map</td>
-    <td style="border: none">1720 De Fer, La Californie ou Nouvelle Caroline</td>
-  </tr>
-</table>
-
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://stacks.stanford.edu/image/iiif/vj377yr4487%2Fvj377yr4487_05_0001/639,490,5020,5651/full/0/default.jpg">
-        <img src="https://stacks.stanford.edu/image/iiif/vj377yr4487%2Fvj377yr4487_05_0001/639,490,5020,5651/full/0/default.jpg" alt="1762 Kino, Passage by land to California" style="width:200px;">
-      </a>
-    </th>
-    <th style="border: none">
-    <a href="https://stacks.stanford.edu/image/iiif/hs911xj2406%2Fhs911xj2406_05_0001/304,388,6117,4731/full/0/default.jpg">
-      <img src="https://stacks.stanford.edu/image/iiif/hs911xj2406%2Fhs911xj2406_05_0001/304,388,6117,4731/full/0/default.jpg" alt="1770 Vaugondy, CARTE DE LA CALIFORNIE" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1762 Kino, Passage by land to California</td>
-    <td style="border: none">1770 Vaugondy, CARTE DE LA CALIFORNIE</td>
-  </tr>
-</table>
-
-<table style="border: none">
-  <tr>
-    <th>
-    <a href="https://stacks.stanford.edu/image/iiif/wy568jc7945%2Fwy568jc7945_05_0001/439,264,15158,14251/full/0/default.jpg">
-        <img src="https://stacks.stanford.edu/image/iiif/wy568jc7945%2Fwy568jc7945_05_0001/439,264,15158,14251/full/0/default.jpg" alt="1865 Shuzo Sato, America" style="width:200px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td style="border: none">1865 Shuzo Sato, America</td>
-  </tr>
-</table>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
+    </div>
+  {% endfor %}
+</div>
 
 ## Lesson Plan
 

@@ -127,11 +127,9 @@ paginator_maxnum: 3 #default[3] Custom: max of number to be displayed on the pag
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
-  cheatsheet:
+  resources:
     output: true
-    permalink: /cheatsheets/:name
-collections_dir:
-permalink: /:year:month:day_:title/
+    permalink: /resources/:path/
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
