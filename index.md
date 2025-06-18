@@ -58,10 +58,10 @@ The class is structured to combine a range of activities, group discussions, and
 
 The materials needed for this class include:
 
-1. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Step%202%20Group%20Activity%20_%20Ordering%20the%20Maps.pdf">The set of printed maps included below for group work (Step 2)</a>
-2. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/California%20as%20an%20Island%20Presentation.pdf">The California as an Island Slide Deck (Step 3)</a>
-3. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Discussion%20Topics%20for%20California%20as%20an%20Island.pdf">Copies of the topic cards (Step 5)</a>
-4. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Materials%20for%20California%20as%20an%20Island%20Map%20Collection.pdf">Printed copies of the California as an Island collection (Step 5)</a>
+1. <a href="assets/pdf/Step_2_Group_Activity_Ordering_the_Maps.pdf">The set of printed maps included below for group work (Step 2)</a>
+2. <a href="assets/pdf/California_as_an_Island_Presentation.pdf">The California as an Island Slide Deck (Step 3)</a>
+3. <a href="assets/pdf/Discussion_Topics_for_California_as_an_Island.pdf">Questionnaire (Step 5)</a>
+4. <a href="assets/pdf/Materials_for_California_as_an_Island_Map_Collection.pdf">Printed copies of the California as an Island collection (Step 5)</a>
 
 <div class="gallery">
   {% for item in site.data.bib %}
@@ -83,7 +83,7 @@ The materials needed for this class include:
 
 When starting this module on California as an Island, give students a quick overview of what the topic is about.
 
-**Aim:** Here, the aim is to peak students' interest in the topic by telling them that for about 200 years, maps from around the world depicted California as an Island where it had previously been included as part of continental North America.
+**Aim:** Here, the aim is to pique students' interest in the topic by telling them that for about 200 years, maps from around the world depicted California as an Island where it had previously been included as part of continental North America.
 
 **Activity:** Give students a brief description of the Glen McLaughlin collection of over 700 of these maps, and ask the class why they think this way of viewing California became popularised. Conclude this section by telling students that the story of this collection involves the story of a mythical island, a Spanish friar with a political agenda, copy-cats, and pirates!
 
