@@ -83,7 +83,7 @@ The materials needed for this class include:
 
 When starting this module on California as an Island, give students a quick overview of what the topic is about.
 
-**Aim:** Here, the aim is to peak students' interest in the topic by telling them that for about 200 years, maps from around the world depicted California as an Island where it had previously been included as part of continental North America.
+**Aim:** Here, the aim is to pique students' interest in the topic by telling them that for about 200 years, maps from around the world depicted California as an Island where it had previously been included as part of continental North America.
 
 **Activity:** Give students a brief description of the Glen McLaughlin collection of over 700 of these maps, and ask the class why they think this way of viewing California became popularised. Conclude this section by telling students that the story of this collection involves the story of a mythical island, a Spanish friar with a political agenda, copy-cats, and pirates!
 
