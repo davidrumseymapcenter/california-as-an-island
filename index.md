@@ -58,10 +58,10 @@ The class is structured to combine a range of activities, group discussions, and
 
 The materials needed for this class include:
 
-1. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Step%202%20Group%20Activity%20_%20Ordering%20the%20Maps.pdf">The set of printed maps included below for group work (Step 2)</a>
-2. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/California%20as%20an%20Island%20Presentation.pdf">The California as an Island Slide Deck (Step 3)</a>
-3. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Discussion%20Topics%20for%20California%20as%20an%20Island.pdf">Copies of the topic cards (Step 5)</a>
-4. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Materials%20for%20California%20as%20an%20Island%20Map%20Collection.pdf">Printed copies of the California as an Island collection (Step 5)</a>
+1. <a href="assets/pdf/Step_2_Group_Activity_Ordering_the_Maps.pdf">The set of printed maps included below for group work (Step 2)</a>
+2. <a href="assets/pdf/California_as_an_Island_Presentation.pdf">The California as an Island Slide Deck (Step 3)</a>
+3. <a href="assets/pdf/Discussion_Topics_for_California_as_an_Island.pdf">Copies of the topic cards (Step 5)</a>
+4. <a href="assets/pdf/Materials_for_California_as_an_Island_Map_Collection.pdf">Printed copies of the California as an Island collection (Step 5)</a>
 
 <div class="gallery">
   {% for item in site.data.bib %}
